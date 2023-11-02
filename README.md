@@ -32,7 +32,7 @@ pip install pandas numpy matplotlib nltk scikit-learn textblob wordcloud
 ## Getting Started
 
 1. Clone this repository to your local machine:  
-bash git clone https://github.com/Suganyakamalanathan/Project-5-Sentiment-analysis-for-marketing_au513421106042.git
+bash git clone https://github.com/sathishkumar1111/Sentiment-analysis-for-marketing.git
 ```
 
 2. Create a virtual environment (recommended):
